@@ -8,6 +8,9 @@ A command-line application to manage a company's employee database, using Node.j
 Daniel H. Lewis
 
 # Deployment
+Demonstration:
+
+Github: https://github.com/dotdlew/shiny-computing-machine
 
 # User Story
 AS A business owner
